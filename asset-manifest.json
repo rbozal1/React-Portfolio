@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/%7BReact-Portfolio%7D/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/%7BReact-Portfolio%7D/static/js/main.9d30b587.chunk.js",
-    "main.js.map": "/%7BReact-Portfolio%7D/static/js/main.9d30b587.chunk.js.map",
-    "runtime-main.js": "/%7BReact-Portfolio%7D/static/js/runtime-main.d87cf7d4.js",
-    "runtime-main.js.map": "/%7BReact-Portfolio%7D/static/js/runtime-main.d87cf7d4.js.map",
-    "static/css/2.150d169a.chunk.css": "/%7BReact-Portfolio%7D/static/css/2.150d169a.chunk.css",
-    "static/js/2.0ed91f5c.chunk.js": "/%7BReact-Portfolio%7D/static/js/2.0ed91f5c.chunk.js",
-    "static/js/2.0ed91f5c.chunk.js.map": "/%7BReact-Portfolio%7D/static/js/2.0ed91f5c.chunk.js.map",
-    "index.html": "/%7BReact-Portfolio%7D/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/%7BReact-Portfolio%7D/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/%7BReact-Portfolio%7D/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0ed91f5c.chunk.js.LICENSE.txt": "/%7BReact-Portfolio%7D/static/js/2.0ed91f5c.chunk.js.LICENSE.txt",
-    "static/media/Film2Book.ede18835.png": "/%7BReact-Portfolio%7D/static/media/Film2Book.ede18835.png",
-    "static/media/LinkedInLogo.a5eb2e17.jpg": "/%7BReact-Portfolio%7D/static/media/LinkedInLogo.a5eb2e17.jpg",
-    "static/media/Quiz-Game.459a9377.png": "/%7BReact-Portfolio%7D/static/media/Quiz-Game.459a9377.png",
-    "static/media/Roxhers_Bozali__SoftwareEngineer_.6454ecd5.pdf": "/%7BReact-Portfolio%7D/static/media/Roxhers_Bozali__SoftwareEngineer_.6454ecd5.pdf",
-    "static/media/WeatherDash.9010a9b5.png": "/%7BReact-Portfolio%7D/static/media/WeatherDash.9010a9b5.png",
-    "static/media/burger.bb8dc424.png": "/%7BReact-Portfolio%7D/static/media/burger.bb8dc424.png",
-    "static/media/kodi.9a6a3f02.png": "/%7BReact-Portfolio%7D/static/media/kodi.9a6a3f02.png",
-    "static/media/noteTaker.4da58034.png": "/%7BReact-Portfolio%7D/static/media/noteTaker.4da58034.png"
+    "main.css": "/React-Portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.f94c9607.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f94c9607.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ba1c2482.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.ba1c2482.js.map",
+    "static/css/2.150d169a.chunk.css": "/React-Portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.0ed91f5c.chunk.js": "/React-Portfolio/static/js/2.0ed91f5c.chunk.js",
+    "static/js/2.0ed91f5c.chunk.js.map": "/React-Portfolio/static/js/2.0ed91f5c.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/React-Portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-Portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0ed91f5c.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0ed91f5c.chunk.js.LICENSE.txt",
+    "static/media/Film2Book.ede18835.png": "/React-Portfolio/static/media/Film2Book.ede18835.png",
+    "static/media/LinkedInLogo.a5eb2e17.jpg": "/React-Portfolio/static/media/LinkedInLogo.a5eb2e17.jpg",
+    "static/media/Quiz-Game.459a9377.png": "/React-Portfolio/static/media/Quiz-Game.459a9377.png",
+    "static/media/Roxhers_Bozali__SoftwareEngineer_.6454ecd5.pdf": "/React-Portfolio/static/media/Roxhers_Bozali__SoftwareEngineer_.6454ecd5.pdf",
+    "static/media/WeatherDash.9010a9b5.png": "/React-Portfolio/static/media/WeatherDash.9010a9b5.png",
+    "static/media/burger.bb8dc424.png": "/React-Portfolio/static/media/burger.bb8dc424.png",
+    "static/media/kodi.9a6a3f02.png": "/React-Portfolio/static/media/kodi.9a6a3f02.png",
+    "static/media/noteTaker.4da58034.png": "/React-Portfolio/static/media/noteTaker.4da58034.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d87cf7d4.js",
+    "static/js/runtime-main.ba1c2482.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.0ed91f5c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9d30b587.chunk.js"
+    "static/js/main.f94c9607.chunk.js"
   ]
 }
