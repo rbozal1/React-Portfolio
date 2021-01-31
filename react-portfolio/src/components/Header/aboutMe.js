@@ -1,12 +1,12 @@
 import React from "react";
 import "../../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import Logo from "img"
+
 
 function body(props) {
     return (
-        <div className="aboutApp">
-        <div className="container">
+    <div className="aboutApp">
+    <div className="container">
     <div class="row justify-content-center">
       <div class="col-11 px-0 mt-3 mt-sm-4 mt-md-5">
       <div class="row">

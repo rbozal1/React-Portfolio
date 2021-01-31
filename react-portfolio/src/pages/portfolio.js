@@ -11,7 +11,9 @@ import kodi from '../img/kodi.png';
 const portfolio = () => {
     return (
 <div className="container">
+<div className="jumbotron jumbotron-fluid">
     <div className="row justify-content-center">
+     
         <div className="col-11 px-0 mt-3 mt-sm-4 mt-md-5">
             <div className="row">
                 <div className="col-12 col-md-6 card-container">
@@ -92,6 +94,7 @@ const portfolio = () => {
                         </div>
                     </div>
                 </div>
+            </div>    
                 )
 }
 export default portfolio

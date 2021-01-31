@@ -2,13 +2,14 @@ import React from "react";
 import "../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Logo from "../img/aboutMe.jpg"
+import Resume from "../img/Roxhers_Bozali__SoftwareEngineer_.pdf";
 
 const mainPage = () => {
     return (
-        <div className="aboutApp">
-        <div className="container">
+    <div className="container">
+    <div className="jumbotron jumbotron-fluid"> 
     <div className="row justify-content-center">
-      <div className="col-11 px-0 mt-3 mt-sm-4 mt-md-5">
+      <div className="col-11 px-50 mt-3 mt-md-4 mt-lg-10">
       <div className="row">
         <div className="col-12 col-md-6 card-container">
         <div className="card">
@@ -24,7 +25,7 @@ const mainPage = () => {
             </p>
 
           <p className="card-text">I am very excited to pursue a career as a Software Engineer! </p>
-          <h3><p>For more information, please check out my <a href="src/img/Roxhers_Bozali__SoftwareEngineer_.pdf"  target="_blank">Resume!</a></p></h3> 
+          <h3><p>For more information, please check out my <a href={Resume}  target="_blank">Resume!</a></p></h3> 
          
           </div>
           </div>
@@ -35,7 +36,9 @@ const mainPage = () => {
      </div> 
     </div>
    </div>
-  </div> 
+   </div>
+   
+  
     )
 }
 export default mainPage

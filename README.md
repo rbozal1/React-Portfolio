@@ -1,4 +1,9 @@
 # React-Portfolio
+![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)<br />
+
+## Overview
+
+I created  my personal portfolio using React.js.
 
 ## Instructions
 ### `npm start`
