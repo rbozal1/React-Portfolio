@@ -15,4 +15,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## GitHub Page
-https://rbozal1.github.io/React-Portfolio/
+https://rbozal1.github.io/About
